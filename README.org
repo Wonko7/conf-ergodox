@@ -1,0 +1,10 @@
+* command:
+#+begin_src shell
+teensy_loader_cli -v -mmcu=atmega32u4 whatever.hex
+#+end_src
+* qwerty + kmonad heavy lifting:
+https://configure.zsa.io/ergodox-ez/layouts/9p4oo/latest/0
+* dvorak
+https://configure.ergodox-ez.com/layouts/Xox9/latest/2
+https://configure.ergodox-ez.com/layouts/BBKD/latest/0
+https://configure.ergodox-ez.com/layouts/BBQD/latest/0
